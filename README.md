@@ -1,15 +1,41 @@
-# HI there, Irom here!
-I am a full stack software engineer who loves to develop interactive web applications at
-a design-oriented approach. Here from Myanmar, I can provide Dynamic applications and 
-systemic projects like POS and other store softwares made with Java and PostgreSQL.
+# 👋 Hi there, I'm Irom!
 
-# 🪐 What have I mastered? 🪐
-I mastered the languages below:
+I'm a Software Engineer based in Myanmar, specializing in creating interactive web applications with a design-oriented approach. I have extensive experience developing dynamic business solutions, including POS systems and enterprise software using Java and PostgreSQL.
 
-![html](https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/HTML.jpg)![css](https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/CSS.jpg)![dart](https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/Dart.jpg)
-![bootstrap](https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/BOOTSTRAP.jpg)![php](https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/MySQL.svg.jpg)![mysql](https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/PHP.jpg)
+## 🛠️ Technical Expertise
 
-# I also have worked with multiple frameworks such as:
-1. Laravel 11       2. Next.js
-3. React.js         4. Django
-5. Flask
+### Languages & Technologies
+<div align="center">
+  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/HTML.jpg" alt="HTML5" height="50"/>
+  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/CSS.jpg" alt="CSS3" height="50"/>
+  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/Dart.jpg" alt="Dart" height="50"/>
+  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/BOOTSTRAP.jpg" alt="Bootstrap" height="50"/>
+  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/MySQL.svg.jpg" alt="MySQL" height="50"/>
+  <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/PHP.jpg" alt="PHP" height="50"/>
+</div>
+
+### Framework Expertise
+<div align="center">
+
+| Frontend | Backend    |
+|----------|-----------=|
+| Next.js  | Laravel 11 |
+| React.js | Django     |
+|          | Flask      |
+
+</div>
+
+## 🚀 What I Do
+- Develop scalable web applications
+- Create user-centric interfaces
+- Design and implement database architectures
+- Build robust backend systems
+- Craft business automation solutions
+
+## 📫 Let's Connect
+Feel free to reach out for collaborations or just a friendly chat about technology!
+
+---
+<div align="center">
+  <i>Building the future, one line of code at a time.</i>
+</div>
