@@ -15,15 +15,15 @@ I'm a Software Engineer based in Myanmar, specializing in creating interactive w
 </div>
 
 ### Framework Expertise
-<div align="center">
 
-| Frontend | Backend    |
-|----------|-----------=|
-| Next.js  | Laravel 11 |
-| React.js | Django     |
-|          | Flask      |
-
-</div>
+| Frontend Frameworks | Backend Frameworks | Mobile Frameworks |
+|:------------------:|:------------------:|:-----------------:|
+| Next.js            | Laravel 11         | Flutter           |
+| React.js           | Django             | GetX              |
+| Vue.js             | Flask              | Bloc              |
+| Angular            | Express.js         | Provider          |
+| Svelte             | Spring Boot        | Riverpod          |
+|                    |                    | MobX              |
 
 ## 🚀 What I Do
 - Develop scalable web applications
