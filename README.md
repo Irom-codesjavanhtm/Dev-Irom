@@ -1,6 +1,9 @@
-# 👋 Hi there, I'm Irom!
+<img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/Wazzup.png" alt="WAZZUP" height="70"/>
 
-I'm a Software Engineer based in Myanmar, specializing in creating interactive web applications with a design-oriented approach. I have extensive experience developing dynamic business solutions, including POS systems and enterprise software using Java and PostgreSQL.
+I'm Bhone, a software engineer from Myanmar.
+
+I am mainly interested in producing full stack applications and currently working as a software engineer at Kone Lone Shin.
+📌 also a student studying for Bachelors of Software Engineering at Monash University.
 
 ## 🛠️ Technical Expertise
 
