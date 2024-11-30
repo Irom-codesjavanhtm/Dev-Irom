@@ -17,17 +17,6 @@ I am mainly interested in producing full stack applications and currently workin
   <img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/PHP.jpg" alt="PHP" height="50"/>
 </div>
 
-### Framework Expertise
-
-| Frontend Frameworks | Backend Frameworks | Mobile Frameworks |
-|:------------------:|:------------------:|:-----------------:|
-| Next.js            | Laravel 11         | Flutter           |
-| React.js           | Django             | GetX              |
-| Vue.js             | Flask              | Bloc              |
-| Angular            | Express.js         | Provider          |
-| Svelte             | Spring Boot        | Riverpod          |
-|                    |                    | MobX              |
-
 ## 🚀 What I Do
 - Develop scalable web applications
 - Create user-centric interfaces
@@ -35,9 +24,7 @@ I am mainly interested in producing full stack applications and currently workin
 - Build robust backend systems
 - Craft business automation solutions
 
-## 📫 Let's Connect
-Feel free to reach out for collaborations or just a friendly chat about technology!
-
+Let's connect!
 ---
 <div align="center">
   <i>Building the future, one line of code at a time.</i>
