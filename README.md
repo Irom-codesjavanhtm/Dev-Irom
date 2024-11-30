@@ -1,4 +1,4 @@
-<img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/assets/Wazzup.png" alt="WAZZUP" height="70"/>
+`<img src="https://github.com/Irom-codesjavanhtm/Dev-Irom/blob/main/Wazzup.png" alt="WAZZUP" height="70"/>
 
 I'm Bhone, a software engineer from Myanmar.
 
